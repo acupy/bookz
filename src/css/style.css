@@ -1,0 +1,27 @@
+.search-bar {
+  position: fixed;
+  top: 44px;
+  height: 86px;
+  width: 100%;
+  background-color: #fafafa;
+}
+
+.search-bar > ons-select {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+ons-search-input {
+  width: 100%;
+}
+
+.subtitle {
+  opacity: 1;
+  color: #6b6b6b;
+  font-size: 12px;
+}
+
+.list-item__center {
+  display: block;
+}
